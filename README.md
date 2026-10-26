@@ -17,4 +17,4 @@ Warsaw University of Technology (Politechnika Warszawska) — currently studying
 - [Reborn Company AI](https://reborncompanyai.com/) — site is currently down.
 - Another project — in development, no public link yet.
 
-![Demo](._.jpeg)
+![Demo](_.jpeg)
