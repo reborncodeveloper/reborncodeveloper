@@ -1,7 +1,7 @@
 # Mitrafan Patapovich 
 
 17, Warsaw · [reborncodeveloper@gmail.com](mailto:reborncodeveloper@gmail.com)
-**Site:** https://reborncodeveloper.github.io
+**Site:**
 Site: [reborncodeveloper.github.io](https://reborncodeveloper.github.io)
 Student at Warsaw University of Technology (Politechnika Warszawska). No work experience yet. Looking for an internship, unpaid is fine. I learn fast.
 ## Education
@@ -16,3 +16,5 @@ Warsaw University of Technology (Politechnika Warszawska) — currently studying
 ## Projects
 - [Reborn Company AI](https://reborncompanyai.com/) — site is currently down.
 - Another project — in development, no public link yet.
+
+![Demo](._ (2).jpeg)
