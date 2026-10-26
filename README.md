@@ -4,21 +4,21 @@
 **Site:**
 Site: [reborncodeveloper.github.io](https://reborncodeveloper.github.io)
 ## Education
-Warsaw University of Technology (Politechnika Warszawska) - currently studying
+Warsaw University of Technology (Politechnika Warszawska) - currently studying 
 ## Skills
-[+] Python additional useful skills: asyncio, multiprocessing, algorithms, DOP
-[+] Relational databases: Postgresql
-[+] Bash: basics
-[+] JavaScript, HTML, Css, Backend(python): basics
-[+] Languages: English(B2), Russian(native), Polish(A2)
-[+] Other skills: fast typing
+[+] Python additional useful skills: asyncio, multiprocessing, algorithms, DOP <br>
+[+] Relational databases: Postgresql <br>
+[+] Bash: basics <br>
+[+] JavaScript, HTML, Css, Backend(python): basics <br>
+[+] Languages: English(B2), Russian(native), Polish(A2) <br>
+[+] Other skills: fast typing <br>
 ## Projects
-[+] [Reborn Company AI](https://reborncompanyai.com/) - Created using AI technologies. 
-[+] Other projects: At least 3 additional projects in a private repository.
+[+] [Reborn Company AI](https://reborncompanyai.com/) - Created using AI technologies.  <br>
+[+] Other projects: At least 3 additional projects in a private repository. <br>
 ## About me
-Student at Warsaw University of Technology (Politechnika Warszawska).
-Fast learner and strong communicator, highly adaptable and open to various tasks.
-Looking for a part-time internship or junior position that can be balanced with my studies.
+Student at Warsaw University of Technology (Politechnika Warszawska). <br>
+Fast learner and strong communicator, highly adaptable and open to various tasks. <br>
+Looking for a part-time internship or junior position that can be balanced with my studies. <br>
 
 
 ![Demo](_.jpeg)
