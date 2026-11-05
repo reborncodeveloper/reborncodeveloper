@@ -13,6 +13,7 @@ Warsaw University of Technology (Politechnika Warszawska) - currently studying
 [+] Languages: English(B2), Russian(native), Polish(A2) <br>
 ## Projects
 [+] [Reborn Company AI](https://reborncompanyai.com/) - B2B Saas. <br>
+[+] [Visual sorting] - pet project.
 [+] Other projects: Additional few projects in private repo<br>
 ## About me
 Student at Warsaw University of Technology (Politechnika Warszawska). <br>
