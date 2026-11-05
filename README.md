@@ -1,7 +1,7 @@
 # Mitrafan Patapovich 
 
 17, Warsaw · [reborncodeveloper@gmail.com](mailto:reborncodeveloper@gmail.com) <br>
-Site: [reborncodeveloper.github.io](https://reborncodeveloper.github.io)<br>
+Resume: [reborncodeveloper.github.io](https://reborncodeveloper.github.io)<br>
 LinkedIn: https://www.linkedin.com/in/mitrafan-patapovich-12a813447/<br>
 ## Education
 Warsaw University of Technology (Politechnika Warszawska) - currently studying 
